@@ -10,3 +10,7 @@ For further visualization, I highlight 4 main data sets that I will use:
 -Number of infected population in a particular country;
 
 -Change in the percentage of cases throughout the pandemic.
+
+The visualization results can be seen at the link: 
+
+https://public.tableau.com/app/profile/alex5678/viz/CovidDashboard_16572726401390/Dashboard1
