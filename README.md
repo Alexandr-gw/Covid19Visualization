@@ -1,4 +1,4 @@
-# SQL_Covid19VisualizationProject
+# Covid19Visualization
 
 This project is my version of Covid19 data visualization.
 For further visualization, I highlight 4 main data sets that I will use:
